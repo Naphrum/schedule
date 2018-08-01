@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 import Icon from '../icon';
-import Arrow from '../schedule/arrow';
+import Arrow from '../arrow';
 import Action from '../action';
 
 class LibraryCourse extends Component {
